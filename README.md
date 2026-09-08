@@ -1,4 +1,4 @@
-# DData Professional Survey Analysis: Power BI Workforce Dashboard
+# Data Professional Survey Analysis: Power BI Workforce Dashboard
 ## Executive Summary
 
 This project uses **Power BI** to analyze survey data from data professionals and uncover insights into salaries, job roles, programming language preferences, geographic representation, work-life balance, salary satisfaction, and the perceived difficulty of entering the data field.
